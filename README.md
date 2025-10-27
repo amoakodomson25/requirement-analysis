@@ -56,7 +56,6 @@ Use Case Diagrams are visual representations that show how users (actors) intera
 - Improve communication between developers and stakeholders.
 - Serve as a foundation for writing detailed use case specifications.
 
-<img width="1024" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/36dec6ef-9448-4323-be1e-7d1f52519dc2" />
 
 ## Acceptance Criteria
 Acceptance Criteria define the conditions that must be met for a feature to be considered complete and acceptable by the client or user. They ensure that requirements are clear, testable, and aligned with user expectations, reducing misunderstandings and rework.
