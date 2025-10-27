@@ -22,3 +22,27 @@ Creates a common understanding between clients, developers, and project managers
 The software meets user expectations when requirements are correctly captured and validated.
 - Supports Project Planning:
 Clear requirements help estimate project timelines, resources, and budgets accurately.
+
+## Key Activities in Requirement Analysis.
+1. Requirement Gathering: Collecting all possible requirements from stakeholders through interviews, surveys, or observation.
+2. Requirement Elicitation: Clarifying and refining gathered information to identify true needs.
+3. Requirement Specification: Documenting the requirements in a clear and structured form, often in a Software Requirement Specification (SRS) document.
+4. Requirement Validation: Reviewing and confirming that the documented requirements align with user expectations and project goals.
+5. Requirement Management: Tracking and updating requirements as the project evolves to handle changes effectively.
+
+## Types of Requirements.
+### Functional Requirements
+These define what the system should do (the core actions and features of the booking platform).
+- User Registration & Login: Users can create accounts and securely log in.
+- Property Search & Filter: Users can search for hotels by location, price, or amenities.
+- Booking & Payment: Users can book rooms and complete payments through integrated gateways.
+- Review & Rating System: Guests can leave feedback after their stay.
+- Host Management: Property owners can list, edit, and manage their accommodations.
+
+### Non-functional Requirements
+These define how the system should perform (focusing on quality, performance, and reliability).
+- Performance: Pages should load within 2 seconds for a smooth user experience.
+- Security: Data encryption for all transactions and user credentials.
+- Availability: The system should maintain 99.9% uptime.
+- Scalability: Able to handle increasing numbers of users and bookings.
+- Usability: The interface should be intuitive and mobile-friendly.
