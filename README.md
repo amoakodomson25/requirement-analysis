@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/24b6a9af-15aa-4260-9a7d-0808f4a485b4" /># Requirement Analysis in Software Development
+# Requirement Analysis in Software Development
 
 This repository explains the requirement analysis phase of the SDLC, focusing on how to identify, document, and validate software requirements. It includes examples, diagrams, and documentation to guide developers in building clear and effective project foundations
 
