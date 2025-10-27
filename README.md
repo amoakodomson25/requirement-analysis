@@ -46,3 +46,24 @@ These define how the system should perform (focusing on quality, performance, an
 - Availability: The system should maintain 99.9% uptime.
 - Scalability: Able to handle increasing numbers of users and bookings.
 - Usability: The interface should be intuitive and mobile-friendly.
+
+##Use Case Diagrams
+Use Case Diagrams are visual representations that show how users (actors) interact with a system to achieve specific goals. They illustrate the system’s functional requirements from the user’s perspective.
+
+###Benefits
+- Provide a clear overview of system functionality.
+- Help identify user roles and their interactions.
+- Improve communication between developers and stakeholders.
+- Serve as a foundation for writing detailed use case specifications.
+
+
+
+##Acceptance Criteria
+Acceptance Criteria define the conditions that must be met for a feature to be considered complete and acceptable by the client or user. They ensure that requirements are clear, testable, and aligned with user expectations, reducing misunderstandings and rework.
+
+### Example – Checkout Feature:
+- The user can review booking details before payment.
+- The system supports multiple payment methods (e.g., card, PayPal).
+- A confirmation message and booking ID are displayed after successful payment.
+- The user receives a confirmation email within one minute of checkout.
+
